@@ -5,6 +5,7 @@ c# tool convert trajectory data in txt to deck.gl demo's JSON format
 ![Image text](https://github.com/upcwxq666/trajTxt2JSON/blob/master/traj1.PNG)
 
 deck.gl例子中可用的JSON格式
+
 [{
   "vendor": 0,
   "segments": [
